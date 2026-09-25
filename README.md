@@ -158,3 +158,4 @@ Prototype – Three-Compartment Smart Ration Dispensing System
 
 The prototype demonstrates how RFID, servo motors, LCD, Arduino, and Wi-Fi communication can be combined to create an automated ration dispensing system. Today's work mainly focused on building the physical prototype, integrating the three dispensing mechanisms, and testing the individual hardware modules. The system can be further developed by adding load-cell-based measurement and complete IoT monitoring.  
 **20.Project image** 
+![SMART RATION MONITORING](SMART%20IMAGE.jpeg)
